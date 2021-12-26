@@ -20,10 +20,11 @@ export default function Home() {
         <title>Meta</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <div className="flex flex-col absolute z-50 h-5/6 w-full items-center justify-center space-y-9">
+           
       <button onClick={logout} className='button'>Logout</button>
-      <h1>Welcome Meta </h1>
-     
-
+      
+      </div>
     </div>
   );
 }
