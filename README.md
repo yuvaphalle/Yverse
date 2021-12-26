@@ -2,7 +2,7 @@
 
 # Metamask Decentralized Authentication Using Moralis
 
-![NextJs X Moralis](screenshot.png?raw=true "Decen Auth")
+![NextJs X Moralis](screenshot.jpg?raw=true "Decen Auth")
 ## Make sure you have NODE installed!
 
 
