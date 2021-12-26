@@ -20,7 +20,7 @@ export default function Home() {
         <title>Meta</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="flex flex-col absolute z-50 h-5/6 w-full items-center justify-center space-y-9">
+      <div className="flex absolute  w-full items-center justify-center space-y-9">
            
       <button onClick={logout} className='button'>Logout</button>
       
