@@ -10,14 +10,14 @@ function Login(){
     
 
         <div className=" relative">
-            <video autoPlay muted loop id="videoBG" >         
+            {/* <video autoPlay muted loop id="videoBG" >         
             <source src="/images/vbg.mp4" type="video/mp4"/>       
         </video>
-            
+             */}
             <div className="flex flex-col absolute z-50 h-5/6 w-full items-center justify-center space-y-9">
                 
             <div className="img-hover-zoom--colorize">
-            <Image className = "object-cover rounded-full" src="/images/prop.jpg" width={200} height={200}  />
+            <Image className = "object-cover rounded-full" src="/images/monkry.gif" width={200} height={200}  />
             </div>
 
                 <button className="button" onClick={authenticate}>
