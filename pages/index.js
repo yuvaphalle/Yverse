@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <div className="flex absolute  w-full items-center justify-center space-y-9">
            
-      <button onClick={logout} className='button'>Logout</button>
+      <button onClick={logout} className='glow-on-hover'>Logout</button>
       
       </div>
     </div>
